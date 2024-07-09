@@ -62,12 +62,9 @@ Welcome to my GitHub profile! I'm a passionate and driven individual with a love
 - **Golden Athlete Year Award:** Missouri State University Men’s Volleyball Club Team 2022
 
 ## Let's Connect
-[![Instagram](https://image.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
-
-[Contact Me](mailto:guillaumegirishya@gmail.com)
-
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillaumegirishya@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-girishya/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-username/)
 
 Feel free to explore my repositories and projects. I'm always open to collaborating on exciting new ideas and projects. Let's make something amazing together!
 
