@@ -48,6 +48,12 @@ Welcome to my GitHub profile! I'm a passionate and driven individual with a love
 - Enhanced team dynamics through effective communication
 - Demonstrated agility, accuracy, and strategic play on the court
 - Contributed to victories in competitive volleyball matches
+### African Student Association
+** Treasurer** (Spring 2022 – Present)
+- Manage and oversee the financial operations of the association
+- Organize and plan fundraising activities to support events and initiatives 
+- Maintain accurate records of financial transactions and budgets
+
 
 ## Technical Experience
 
