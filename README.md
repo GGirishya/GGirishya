@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a passionate and driven individual with a love
 
 ## Awards and Honors
 
--**Javascript Specialist: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112647304**
+- **Javascript Specialist:https://www.credential.net/859e421b-1911-4391-a276-a36d05697f36#gs.dce3vt**
 - **People’s Choice Award Winner:** Vicki Stanton Public Speaking Showcase MSU 2023
 - **International Excellence Scholarship:** 2022 (SAT score of 1300)
 - **Golden Athlete Year Award:** Missouri State University Men’s Volleyball Club Team 2022
