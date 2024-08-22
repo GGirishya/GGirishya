@@ -63,6 +63,7 @@ Welcome to my GitHub profile! I'm a passionate and driven individual with a love
 
 ## Awards and Honors
 
+- **:https://www.credential.net/859e421b-1911-4391-a276-a36d05697f36#gs.dce3vt**
 - **Javascript Specialist:https://www.credential.net/859e421b-1911-4391-a276-a36d05697f36#gs.dce3vt**
 - **INTELLECTUAL SKILLS:https://www.credential.net/fb086e6e-3e89-412e-a12e-c1e67727ae96#gs.dczi78**
 - **HTML & CSS SPECIALIST:https://www.credential.net/a896928d-29d0-4b27-bed3-0de3a2d10d32#gs.dd4dbo**
