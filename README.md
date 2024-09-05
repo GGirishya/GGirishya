@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm a passionate and driven individual with a love
 
 ### Missouri State University, Springfield, MO
 **Resident Assistant** (Summer 2023 - Present)
-- Organized community-building events for over 50 residents
-- Provided on-call support, enforced policies, and ensured safety
-- Enhanced resident life through floor and building-wide programs
+- Organize community-building events for over 50 residents
+- Provide on-call support, enforced policies, and ensured safety
+- Enhance resident life through floor and building-wide programs
 
 ### Pearson Education, Kigali, Rwanda
 **Customer Support Agent** (Fall 2021 - Summer 2022)
