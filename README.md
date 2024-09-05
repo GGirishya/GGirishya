@@ -23,6 +23,12 @@ Welcome to my GitHub profile! I'm a passionate and driven individual with a love
 - Provide on-call support, enforced policies, and ensured safety
 - Enhance resident life through floor and building-wide programs
 
+### Global Career Accelerator, Remote
+**Web Development Trainee** (May 2024 - August 2024)
+- Earned HTML & CSS Specialist Certification and developed skills in front-end web development.
+- Created responsive websites with a focus on UX|UI design and accessibility using Figma.
+- Worked on web development projects for companies like Airbnb, Netflix, and Marriott Homes & Villas.
+
 ### Pearson Education, Kigali, Rwanda
 **Customer Support Agent** (Fall 2021 - Summer 2022)
 - Maintained customer satisfaction with forward-thinking strategies
