@@ -67,13 +67,14 @@ Welcome to my GitHub profile! I'm a passionate and driven individual with a love
 - Implemented sorting algorithms using C++ and SQL to optimize data retrieval
 - Constructed and styled web content through HTML and CSS
 
-## Awards and Honors
+## Technical certificates
 
+- **Building your own GPTs**: https://www.linkedin.com/learning/certificates/a01575d9043c297c300eb0dea7f54e4d5adfb27e908ca063d0ba25735f6f5488?u=74713793 
 - **Web Development:https://www.credential.net/11a3c578-e94a-4563-915f-97b6925918d7#gs.derpm2**
 - **Javascript Specialist:https://www.credential.net/859e421b-1911-4391-a276-a36d05697f36#gs.dce3vt**
 - **INTELLECTUAL SKILLS:https://www.credential.net/fb086e6e-3e89-412e-a12e-c1e67727ae96#gs.dczi78**
 - **HTML & CSS SPECIALIST:https://www.credential.net/a896928d-29d0-4b27-bed3-0de3a2d10d32#gs.dd4dbo**
-
+## Awards and Honors
 - **People’s Choice Award Winner:** Vicki Stanton Public Speaking Showcase MSU 2023
 - **International Excellence Scholarship:** 2022 (SAT score of 1300)
 - **Golden Athlete Year Award:** Missouri State University Men’s Volleyball Club Team 2022
