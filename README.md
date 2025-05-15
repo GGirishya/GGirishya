@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate and driven individual with a love
   - **Missouri State University** 
     - **Degree:** Bachelor of Science in Computer Science
     - **Minor:** Information Technology Cyber Security and Mathematics
-    - **GPA:** 3.61 | Dean’s List Fall 2022, Spring 2024
+    - **GPA:** 3.67 | Dean’s List 
 
 ## Professional Experience
 
@@ -44,11 +44,10 @@ Welcome to my GitHub profile! I'm a passionate and driven individual with a love
 - Collaborated in competitive IT challenges and presentations
 
 ### Student African American Brotherhood, MSU Chapter
-**Member** (Fall 2022 - Present)
-- Facilitated mentoring sessions for student development
-- Implemented academic support and leadership programs
-- Empowered African American students through collaboration
-
+**Personal Development Co-Chair** (Fall 2022 - Present)
+- Co-lead personal development programs to enhance leadership, career readiness, and growth for members 
+- Organize workshops focused on professional and cultural development. 
+- Mentor peers to foster personal growth and community engagement. 
 ### Missouri State University Men’s Volleyball Club Team
 **Member** (Fall 2022 - Present)
 - Enhanced team dynamics through effective communication
