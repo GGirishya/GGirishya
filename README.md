@@ -8,12 +8,13 @@ Welcome to my GitHub profile! I'm a passionate and driven individual with a love
 ## About Me
 
 - **Name:** Guillaume Girishya (many call me G)
-- **Location:** Springfield, Missouri
+- **Location:** Charlotte, NC
 - **Education:** 
   - **Missouri State University** 
     - **Degree:** Bachelor of Science in Computer Science
-    - **Minor:** Information Technology Cyber Security and Mathematics
-    - **GPA:** 3.67 | Dean’s List 
+    - **Minor:** Information Technology Cyber Security 
+    - **Minor:**  Mathematics
+    - **GPA:** CUM LAUDE
 
 ## Professional Experience
 
